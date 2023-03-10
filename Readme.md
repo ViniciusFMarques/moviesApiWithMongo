@@ -1,0 +1,3 @@
+Esse projeto tem fins de aprendizado. Nele, criei um CRUD utilizando nodeJs com Express e MongoDb com Mongoose, onde o usuário consegue, além das funções básicas do CRUD, ordenar os filmes por data de lançamento. Sinta-se livre para explorar o código, utiliza-lo e estuda-lo =).
+
+Para testar ou utilizar esse projeto, vá em src/database/index.js, e mude a constante 'MONGO_CONNECTION_URL' para a url do seu banco de dados mongo.
